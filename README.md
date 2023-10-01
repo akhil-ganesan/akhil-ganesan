@@ -4,4 +4,3 @@
     * Genetic/genomic analyses
     * Biomolecular engineering & drug discovery
     * Neural modeling & engineering
-![Georgia Tech-Emory Biomedical Engineering Department Logo](gt-logo.png)
