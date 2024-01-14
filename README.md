@@ -6,3 +6,4 @@
     * Genetic/genomic analyses
     * Biomolecular engineering & drug discovery
     * Neural modeling & engineering
+* See my personal website/portfolio: https://akhil-ganesan.github.io/Portfolio/
